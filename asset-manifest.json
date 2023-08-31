@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ServicioVentas/static/css/main.851a7810.css",
+    "main.js": "/ServicioVentas/static/js/main.e794ecb2.js",
+    "static/js/787.b2ea005c.chunk.js": "/ServicioVentas/static/js/787.b2ea005c.chunk.js",
+    "static/media/porcion-de-pizza.png": "/ServicioVentas/static/media/porcion-de-pizza.e2bfb6d98244cce3c966.png",
+    "static/media/hot-dog.png": "/ServicioVentas/static/media/hot-dog.dd7cf2d3a77cd1e0d26b.png",
+    "static/media/comida-rapida.png": "/ServicioVentas/static/media/comida-rapida.62871f3fa833a55fb116.png",
+    "static/media/alitas-de-pollo.png": "/ServicioVentas/static/media/alitas-de-pollo.997e6652ce47bb449096.png",
+    "static/media/bebidas.png": "/ServicioVentas/static/media/bebidas.5bc2c6ed757209344ce2.png",
+    "static/media/papa.png": "/ServicioVentas/static/media/papa.07ae4bd1df4f26398ce8.png",
+    "static/media/bandeja-de-dulces.png": "/ServicioVentas/static/media/bandeja-de-dulces.edd9a1104cd4b23f2cb1.png",
+    "static/media/albondiga.png": "/ServicioVentas/static/media/albondiga.4ea26c1ed83f939df8f0.png",
+    "static/media/notas.png": "/ServicioVentas/static/media/notas.5720710a33db980f2b86.png",
+    "index.html": "/ServicioVentas/index.html",
+    "main.851a7810.css.map": "/ServicioVentas/static/css/main.851a7810.css.map",
+    "main.e794ecb2.js.map": "/ServicioVentas/static/js/main.e794ecb2.js.map",
+    "787.b2ea005c.chunk.js.map": "/ServicioVentas/static/js/787.b2ea005c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.851a7810.css",
+    "static/js/main.e794ecb2.js"
+  ]
+}
