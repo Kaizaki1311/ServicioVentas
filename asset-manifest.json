@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ServicioVentas/static/css/main.851a7810.css",
-    "main.js": "/ServicioVentas/static/js/main.e794ecb2.js",
+    "main.js": "/ServicioVentas/static/js/main.2c197c42.js",
     "static/js/787.b2ea005c.chunk.js": "/ServicioVentas/static/js/787.b2ea005c.chunk.js",
     "static/media/porcion-de-pizza.png": "/ServicioVentas/static/media/porcion-de-pizza.e2bfb6d98244cce3c966.png",
     "static/media/hot-dog.png": "/ServicioVentas/static/media/hot-dog.dd7cf2d3a77cd1e0d26b.png",
@@ -14,11 +14,11 @@
     "static/media/notas.png": "/ServicioVentas/static/media/notas.5720710a33db980f2b86.png",
     "index.html": "/ServicioVentas/index.html",
     "main.851a7810.css.map": "/ServicioVentas/static/css/main.851a7810.css.map",
-    "main.e794ecb2.js.map": "/ServicioVentas/static/js/main.e794ecb2.js.map",
+    "main.2c197c42.js.map": "/ServicioVentas/static/js/main.2c197c42.js.map",
     "787.b2ea005c.chunk.js.map": "/ServicioVentas/static/js/787.b2ea005c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.851a7810.css",
-    "static/js/main.e794ecb2.js"
+    "static/js/main.2c197c42.js"
   ]
 }
