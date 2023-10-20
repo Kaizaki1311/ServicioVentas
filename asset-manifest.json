@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/ServicioVentas/static/css/main.851a7810.css",
-    "main.js": "/ServicioVentas/static/js/main.03a790af.js",
+    "main.js": "/ServicioVentas/static/js/main.c89ae940.js",
     "static/js/787.b2ea005c.chunk.js": "/ServicioVentas/static/js/787.b2ea005c.chunk.js",
+    "static/media/cargando.gif": "/ServicioVentas/static/media/cargando.90672f1deffccbcdf4f1.gif",
     "static/media/porcion-de-pizza.png": "/ServicioVentas/static/media/porcion-de-pizza.e2bfb6d98244cce3c966.png",
     "static/media/hot-dog.png": "/ServicioVentas/static/media/hot-dog.dd7cf2d3a77cd1e0d26b.png",
     "static/media/comida-rapida.png": "/ServicioVentas/static/media/comida-rapida.62871f3fa833a55fb116.png",
@@ -15,11 +16,11 @@
     "static/media/paraLlevar.png": "/ServicioVentas/static/media/paraLlevar.974b4f032f4edf434ce7.png",
     "index.html": "/ServicioVentas/index.html",
     "main.851a7810.css.map": "/ServicioVentas/static/css/main.851a7810.css.map",
-    "main.03a790af.js.map": "/ServicioVentas/static/js/main.03a790af.js.map",
+    "main.c89ae940.js.map": "/ServicioVentas/static/js/main.c89ae940.js.map",
     "787.b2ea005c.chunk.js.map": "/ServicioVentas/static/js/787.b2ea005c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.851a7810.css",
-    "static/js/main.03a790af.js"
+    "static/js/main.c89ae940.js"
   ]
 }
